@@ -21,7 +21,9 @@ A cleanly-architected Flutter app that tracks real-time COVID-19 statistics usin
 
 ## 📸 Screenshots
 
-> Add UI screenshots here of the dashboard screen, loading state, and error handling.
+> <img width="405" height="899" alt="image" src="https://github.com/user-attachments/assets/b24be798-8ea8-42a0-af46-c8abadfd2abb" />  <img width="406" height="848" alt="image" src="https://github.com/user-attachments/assets/b74b1daa-41ab-44a2-b161-1002ca8674ab" />
+
+
 
 ---
 
