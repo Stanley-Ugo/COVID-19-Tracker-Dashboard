@@ -24,7 +24,9 @@ A cleanly-architected Flutter app that tracks real-time COVID-19 statistics usin
 
 ## 📸 Screenshots
 
-> Add UI screenshots here of the dashboard screen, loading state, and error handling.
+<img width="406" height="843" alt="image" src="https://github.com/user-attachments/assets/fc62a1ee-6886-4e1d-a83b-8e5422eb97b2" /> <img width="405" height="899" alt="image" src="https://github.com/user-attachments/assets/ff45376a-cbae-48ac-aab6-ca1f4ebd8463" />
+
+
 
 ---
 
@@ -33,10 +35,10 @@ A cleanly-architected Flutter app that tracks real-time COVID-19 statistics usin
 | Layer          | Technology Used                  |
 |----------------|----------------------------------|
 | Framework      | [Flutter](https://flutter.dev)   |
-| Charts         | [`fl_chart`](https://pub.dev/packages/fl_chart) or `syncfusion_flutter_charts` |
-| API Client     | `dio` / `http`                   |
+| Charts         | [`fl_chart`](https://pub.dev/packages/fl_chart) |
+| API Client     | `http`                           |
 | Architecture   | MVVM (Model-View-ViewModel)      |
-| State Mgmt     | `provider`, `riverpod`, or `bloc`|
+| State Mgmt     | `bloc`                           |
 | API Source     | [`disease.sh`](https://disease.sh/) or [`covid19api.com`](https://covid19api.com) |
 
 ---
